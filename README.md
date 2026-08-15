@@ -1,5 +1,5 @@
 # git-assignment-2
-
+test for branch writing
 ## Setup
 
 1. Fork this repository on GitHub.
@@ -28,7 +28,7 @@ It should say you are on branch `writing`.
 git push -u origin writing
 
 4. Make a change to the line below in this file: \
-WRITE YOUR SCHOOL + INTENDED MAJOR HERE
+Evergreen Valley High School — Intended Major: Electrical Engineering
 
 5. Add, commit, and push your changes: \
 git add README.md \
